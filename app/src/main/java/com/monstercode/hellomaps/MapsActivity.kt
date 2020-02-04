@@ -352,4 +352,5 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
         private var M_MAX_ENTRIES = 5
         private var tag = "MapsActivity"
     }
+
 }
